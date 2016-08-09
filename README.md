@@ -1,2 +1,2 @@
 # SimplyBlogging
-Simple blog application as a part of MongoDB University. Uses SparkJava and Freemaker framework with MongoDB as backend.
+Simple java web application as a part of MongoDB for Java course from MongoDB university. Uses SparkJava and Freemaker framework with MongoDB as backend.
